@@ -1,6 +1,5 @@
 # Building a Modern CI/CD Pipeline with Jenkins
 
-This project focuses on configuring Jenkins to automate the building and testing of code changes sourced from a GitHub repository, using a Jenkinsfile. The development process adheres to the Git Flow branching model.
 
 ## Table of Contents
 - [Tools](#tools)
